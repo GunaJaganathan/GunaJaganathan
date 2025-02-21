@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a technology enthusiast with a passion for Machine Learning, Generative AI, Large Language Models (LLMs), and Natural Language Processing (NLP). I enjoy solving real-world problems by leveraging technologies to develop innovative solutions. 
 
-I’m always excited to connect with others in the tech community—whether to exchange ideas, explore new opportunities, or collaborate on projects that push the boundaries of innovation. Feel free to message me here or email[mailto:gunasjaganathan@gmail.com] me.
+I’m always excited to connect with others in the tech community—whether to exchange ideas, explore new opportunities, or collaborate on projects that push the boundaries of innovation. Feel free to message me here or [email](mailto:gunasjaganathan@gmail.com) me.
 <!--
 **GunaJaganathan/GunaJaganathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
